@@ -94,17 +94,6 @@
       "id": 1
     },
     {
-      "nome": "Zeca",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Salame",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
       "nome": "Bianca",
       "carne": "Alcatra",
       "pao": "3 Queijos",
@@ -126,17 +115,6 @@
       "id": 4
     },
     {
-      "nome": "Linus Torvalds",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
       "nome": "Paulo Mathias",
       "carne": "Alcatra",
       "pao": "Parmesão e Orégano",
@@ -147,6 +125,17 @@
       ],
       "status": "Solicitado",
       "id": 6
+    },
+    {
+      "nome": "Zenildo",
+      "carne": "Alcatra",
+      "pao": "Pão Mexicano",
+      "opcionais": [
+        "Bacon",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 7
     }
   ]
 }

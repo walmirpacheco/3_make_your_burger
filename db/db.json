@@ -90,7 +90,7 @@
         "Bacon",
         "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
@@ -101,7 +101,7 @@
         "Cheddar",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 3
     },
     {
@@ -134,8 +134,19 @@
         "Bacon",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 7
+    },
+    {
+      "nome": "Margarida",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Pepino"
+      ],
+      "status": "Em produção",
+      "id": 8
     }
   ]
 }

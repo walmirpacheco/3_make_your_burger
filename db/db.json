@@ -90,7 +90,7 @@
         "Bacon",
         "Pepino"
       ],
-      "status": "Em produção",
+      "status": "Solicitado",
       "id": 1
     },
     {
@@ -111,20 +111,8 @@
       "opcionais": [
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 4
-    },
-    {
-      "nome": "Paulo Mathias",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cheddar",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 6
     },
     {
       "nome": "Zenildo",
@@ -134,7 +122,7 @@
         "Bacon",
         "Cebola roxa"
       ],
-      "status": "Finalizado",
+      "status": "Em produção",
       "id": 7
     },
     {
